@@ -21,6 +21,3 @@ These services are used **only to generate summaries**. We do not log or store t
 
 Trustiee uses browser permissions like `host_permissions` to scan and summarize text content on web pages. This access is **used locally only** and never stored or sent elsewhere.
 
-## Contact
-
-If you have any questions about this privacy policy, contact us at: `your-email@example.com`
